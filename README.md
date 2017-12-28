@@ -63,7 +63,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-######国外博客
+###### 国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
@@ -154,7 +154,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |汤姆大叔|[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)|#|#|#|#|《深入理解Bootstrap》、《JavaScript启示录》、《JavaScript设计模式》等多本前端书籍翻译作者|
 
 
-####一些社区
+#### 一些社区
 
 |名称 |地址 |介绍 |
 |-----|-----|------|
